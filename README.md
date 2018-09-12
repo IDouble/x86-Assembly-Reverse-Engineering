@@ -5,7 +5,7 @@ Knowledge I have found interesting about the topic of x86 assembly
 
 ## x86 Registers
 
-*(Older Text from University of Virginia Computer Science (2006), one of the best Guides for x86 Assembly)*
+*(Older Text from the University of Virginia Computer Science (2006), one of the best Guides for x86 Assembly)*
 
 Modern (i.e 3**86** and beyond) x**86** processors have eight 32-bit general purpose registers, as depicted in Figure 1. **The register names are mostly historical**. For example, **EAX** used to be called the accumulator since it was used by a number of arithmetic operations, and **ECX** was known as the counter since it was used to hold a loop index. Whereas most of the registers have lost their special purposes in the modern instruction set, by convention, two are reserved for special purposes — **the stack pointer (ESP)** and the **base pointer (EBP).**
 
