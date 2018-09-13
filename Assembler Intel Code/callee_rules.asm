@@ -9,7 +9,7 @@ PUBLIC _myFunc
 		sub esp, 4   ; Make room for one 4-byte local variable.
 		push edi     ; Save the values of registers that the function
 		push esi     ; will modify. This function uses EDI and ESI.
-		; (no need to save EBX, EBP, or ESP)
+		; (no need to save EBX, EBP, or ESP) 
 
 		; Subroutine Body
 		mov eax, [ebp+8]   ; Move value of parameter 1 into EAX
