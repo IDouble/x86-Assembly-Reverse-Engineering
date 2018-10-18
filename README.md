@@ -44,3 +44,9 @@ You also have **double-precision floating point going from xmm0 to xmm15**.*
 ### 🚩 EFLAGS 🚩
 
 ![x86 assembly EFLAGS Registers](Images/x86_EFLAGS_register.jpg)
+
+### 📝 Cheatsheet x86 Assembly 📝
+
+<p align="center"> 
+  <img src="Images/cheatography_gcc-x86-assembly-quick-reference-cheat-sheet.jpg">
+</p>
