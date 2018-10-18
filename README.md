@@ -45,7 +45,10 @@ You also have **double-precision floating point going from xmm0 to xmm15**.*
 
 ![x86 assembly EFLAGS Registers](Images/x86_EFLAGS_register.jpg)
 
-### 📝 Cheatsheet x86 Assembly 📝
+### [📝 Cheatsheet x86 Assembly 📝](Docs/x86_Assembly.pdf)
+
+[Full Cheatsheet x86 Assembly, 20 Pages.](Docs/x86_Assembly.pdf)
+
 
 <p align="center"> 
   <img src="Images/cheatography_gcc-x86-assembly-quick-reference-cheat-sheet.jpg">
