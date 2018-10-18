@@ -1,4 +1,4 @@
-# 🛠 x86 assembly Reverse Engineering 🛠
+# 🛠 x86 Assembly Reverse Engineering 🛠
 Knowledge I have found interesting about the topic of **x86 assembly**.
 
 ## ⚙️ Basics ⚙️
