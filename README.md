@@ -27,7 +27,11 @@ For the **EAX**, **EBX**, **ECX**, and **EDX** registers, subsections may be use
 
 When referring to registers in assembly language, **the names are not case-sensitive**. For example, the names **EAX** and **eax** refer to the **same register**.
 
-![x86 assembly Registers](x86-registers.png)
+<p align="center"> 
+<img src="Images/register.png">
+</p>
+
+![x86 assembly Registers](Images/x86-registers.png)
 
 In **x86 registers** have an '**e**' in front of their name.</br>
 Example: **e**ax, **e**bx, **e**cx, **e**dx, **e**bp
@@ -36,3 +40,7 @@ Example: **e**ax, **e**bx, **e**cx, **e**dx, **e**bp
 In **x64** you have a '**r**' instead.</br>
 Example: **r**ax, **r**bx, **r**cx, **r**dx, **r**bp</br>
 You also have **double-precision floating point going from xmm0 to xmm15**.*
+
+### 🚩 EFLAGS 🚩
+
+![x86 assembly EFLAGS Registers](Images/x86_EFLAGS_register.jpg)
