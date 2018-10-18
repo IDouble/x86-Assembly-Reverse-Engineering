@@ -14,8 +14,8 @@ Knowledge I have found interesting about the topic of **x86 assembly**.
 dword = **DWORD** = (double-word) </br>
 qword = **QWORD** = (quad-word)
 
-### NOTE: 
-On 32 Bit ARM CPUs a WORD is 32 Bits.
+### NOTE: 📝
+On 32 Bit ARM CPUs a WORD is 32 Bit.
 
 ## 🔧 x86 Registers 🔧
 
