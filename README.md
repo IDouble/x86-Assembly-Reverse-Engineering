@@ -1,9 +1,23 @@
-# x86-assembly-Reverse-Engineering
-Knowledge I have found interesting about the topic of x86 assembly
+# 🛠 x86 assembly Reverse Engineering 🛠
+Knowledge I have found interesting about the topic of **x86 assembly**.
 
-## 
+## ⚙️ Basics ⚙️
 
-## x86 Registers
+| Intel Type  | Bits | Name |
+| ------------- | ------------- | ------------- |
+| -  | 8 Bit  | **BYTE**  |
+| 8086  | 16 Bit  | **WORD**  |
+| i386  | 32 Bit  | **DWORD**  |
+| x86  | 64 Bit  | **QWORD**  |
+
+### Meanings:
+dword = **DWORD** = (double-word) </br>
+qword = **QWORD** = (quad-word)
+
+### NOTE: 
+On 32 Bit ARM CPUs a WORD is 32 Bits.
+
+## 🔧 x86 Registers 🔧
 
 *(Older Text from the University of Virginia Computer Science (2006), one of the best Guides for x86 Assembly)*
 
