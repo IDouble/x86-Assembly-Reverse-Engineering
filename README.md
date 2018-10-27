@@ -17,6 +17,14 @@ qword = **QWORD** = (quad-word)
 ### NOTE: 📝
 On 32 Bit ARM CPUs a WORD is 32 Bit.
 
+<p align="center"> 
+  <img src="Images/compiler.png">
+</p>
+
+<p align="center"> 
+  <img src="Images/compiler2.png">
+</p>
+
 ## 🔧 x86 Registers 🔧
 
 *(Older Text from the University of Virginia Computer Science (2006), one of the best Guides for x86 Assembly)*
@@ -48,7 +56,6 @@ You also have **double-precision floating point going from xmm0 to xmm15**.*
 ### [📝 Cheatsheet x86 Assembly 📝](Docs/x86_Assembly.pdf)
 
 [Full Cheatsheet x86 Assembly, 20 Pages.](Docs/x86_Assembly.pdf)
-
 
 <p align="center"> 
   <img src="Images/cheatography_gcc-x86-assembly-quick-reference-cheat-sheet.jpg">
