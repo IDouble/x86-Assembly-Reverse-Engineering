@@ -1,5 +1,5 @@
 # 🛠 x86 Assembly Reverse Engineering 🛠
-Knowledge I have found interesting about the topic of **x86 assembly**.
+This is a structured README for **x86 assembly**, it is written in the easiest language possible with real world examples. 📓
 
 ## ⚙️ Basics ⚙️
 
