@@ -60,3 +60,5 @@ You also have **double-precision floating point going from xmm0 to xmm15**.*
 <p align="center"> 
   <img src="Images/cheatography_gcc-x86-assembly-quick-reference-cheat-sheet.jpg">
 </p>
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
